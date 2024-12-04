@@ -3,7 +3,7 @@
 -Npm v10 o superior.
 -Git
 
-# Instalacion
+# Instalación
 -En una terminal de windows o de git pegamos el siguiente comando:
 ```
 git clone https://github.com/luis13xd/PruebaTecnicaExperis.git
@@ -45,4 +45,9 @@ Para ver los resultados de ls pruebas que hice a cada componente y pagina nos ub
 ```
 npx jest
 ```
+
+
+
+Creado Por Luis Trujillo Lopez
+03/11/2024
 

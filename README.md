@@ -35,6 +35,11 @@ npm run dev
 http://localhost:5173/
 ```
 
+#Link de la web desplegada:
+```
+https://experis-frontend.netlify.app/
+```
+
 
 -Ponemos ese link que nos arroje en el navegador de tu preferencia
 -Nos mostrara un formulario y una tabla que muestra datos de la api de la prueba tecnica.

@@ -5,23 +5,34 @@
 
 # Instalacion
 -En una terminal de windows o de git pegamos el siguiente comando:
-'''git clone https://github.com/luis13xd/PruebaTecnicaExperis.git
+```
+git clone https://github.com/luis13xd/PruebaTecnicaExperis.git
+```
 
 -Luego accedemos al repositorio descargado con:
-'''cd PruebaTecnicaExperis
+```
+cd PruebaTecnicaExperis
+```
 
 -Despues nos cambiamos a la rama develop:
 '''git checkout develop
 
 -Luego instalamos todas las dependencias de nuestro proyecto
-'''npm install
+```
+npm install
+```
 
 # Ejecucion
 -Estando en la carpeta de nuestro proyecto ponemos en la terminal:
-'''npm run dev
+```
+npm run dev
+```
 
 -Nos debe arrojar un link similar a este:
+```
 http://localhost:5173/
+```
+
 
 -Ponemos ese link que nos arroje en el navegador de tu preferencia
 -Nos mostrara un formulario y una tabla que muestra datos de la api de la prueba tecnica.
@@ -29,4 +40,7 @@ http://localhost:5173/
 
 # Pruebas
 Para ver los resultados de ls pruebas que hice a cada componente y pagina nos ubicamos en una terminal dentro de la carpeta PruebaTecnicaExperis y ponemos el siguiente comando:
-'''npx jest
+```
+npx jest
+```
+

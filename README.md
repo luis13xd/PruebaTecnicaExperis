@@ -15,7 +15,9 @@ cd PruebaTecnicaExperis
 ```
 
 -Despues nos cambiamos a la rama develop:
-'''git checkout develop
+```
+git checkout develop
+```
 
 -Luego instalamos todas las dependencias de nuestro proyecto
 ```
